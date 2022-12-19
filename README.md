@@ -6,7 +6,7 @@
 </div>
 
 
-<p align  = 'center' width = '500px'>Estudante de ADS (Análise Desenvolvimento de Sistemas) cursando o 3° semestre. Morador da cidade de São Paulo - SP na região do Ipiranga. Meu último trabalho foi como auxiliar mecânico tenho 25 anos e apiaxonado por tecnologia.</p>
+<p align  = 'center' width = '500px'>Estudante de ADS (Análise Desenvolvimento de Sistemas) cursando o 3° semestre. Morador da cidade de São Paulo - SP na região do Ipiranga. Meu último trabalho foi como auxiliar mecânico tenho 25 anos e apaixonado por tecnologia.</p>
 
 ***************	
 <div align='center' >
