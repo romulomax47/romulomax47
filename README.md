@@ -31,14 +31,14 @@
 
 <h3 align = 'center' > Entre em contato:</h3>
 
-<p align ="center">
+
+<div align ="center" >
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-romulo/)
-
 ![Instragrm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
-</p>
+</div>
 
 <!---
 romulomax47/romulomax47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
